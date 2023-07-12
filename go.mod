@@ -1,4 +1,4 @@
-module github.com/hyperjiang/lunar
+module github.com/hailianltian/lunar
 
 go 1.17
 
